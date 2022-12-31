@@ -1,6 +1,6 @@
 <div>
 <h1 align='center'> Hey there,😃<br /> I'm Rohit Singh </h1></center>
-<h4 align='center'>A Passionate self-learned Web-Developer...</h4>
+<h4 align='center'>A Passionate & Enthusiastic Web-Developer...</h4>
 <ul>
   <li>🍀 Learning MERN Stack</li>
   <li>📬 Reach me at <a href='mailto:rohitsinghmhkr@gmail.com'>rohitsinghmhkr@gmail.com</a></li>
