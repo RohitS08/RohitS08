@@ -13,5 +13,7 @@
   <li>Gmail : <a href="mailto:rohitsinghmhkr@gmail.com">rohitsinghmhkr@gmail.com</a></li>
 </ul>
 
+<hr/>
+
 [![LeetCode Stats](https://leetcode.card.workers.dev/RohitS462?theme=nord&font=source_code_pro&extension=null)](https://leetcode.com/rohits462)
 </div>
