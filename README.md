@@ -13,3 +13,4 @@
   <li>Leetcode : <a href="https://www.leetcode.com/rohits462">leetcode.com/rohits462</a></li>
 </ul>
 </div>
+![LeetCode Stats](https://leetcode.card.workers.dev/RohitS462?theme=nord&font=source_code_pro&extension=null)
