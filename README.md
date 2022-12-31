@@ -5,13 +5,13 @@
   <li>🍀 Learning MERN Stack</li>
   <li>📬 Reach me at <a href='mailto:rohitsinghmhkr@gmail.com'>rohitsinghmhkr@gmail.com</a></li>
 </ul>
-![icon](https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png)
+
 <ul>
   <h3>📱 Social : </h3>
   <li>Leetcode : <a href="https://www.leetcode.com/rohits462">leetcode.com/rohits462</a></li>
   <li>LinkedIn : <a href="https://www.leetcode.com/rohits462](https://linkedin.com/in/rohit-singh-7b390821b">linkedin.com/in/rohit-singh-7b390821b</a></li>
-  <li>Leetcode : <a href="https://www.leetcode.com/rohits462">leetcode.com/rohits462</a></li>
-![example@gitlab.com](mailto:example@gitlab.com)
+  <li>Gmail : <a href="mailto:rohitsinghmhkr@gmail.com">rohitsinghmhkr@gmail.com</a></li>
 </ul>
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/RohitS462?theme=nord&font=source_code_pro&extension=null)](https://leetcode.com/rohits462)
 </div>
-![LeetCode Stats](https://leetcode.card.workers.dev/RohitS462)
